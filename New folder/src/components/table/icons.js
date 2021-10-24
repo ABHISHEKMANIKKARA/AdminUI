@@ -1,2 +1,0 @@
-export default {deleteIcon:<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-delete-miscellaneous-kiranshastry-lineal-kiranshastry.png"/>,
-editIcon:<img src="https://img.icons8.com/fluency/48/000000/edit.png"/>}
