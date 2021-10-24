@@ -234,6 +234,9 @@ function Table() {
 									type="button"
 									class="btn btn-secondary"
 									data-dismiss="modal"
+									onClick={() => {
+										setModal(false);
+									}}
 								>
 									Close
 								</button>
